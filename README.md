@@ -13,9 +13,11 @@ Korisnik će moći proizvode dodati u košaricu u kojoj će mu se obračunati uk
 
 
 ## Popis funkcionalnosti
-1. a Kreiranje korisničkog računa, uređivanje i pregled.
-2. b Odabir salona, datuma i vremena rezervacije.
-3. c Primanje obavijesti 
+1. Stranica sa proizvodima
+2. Detalji o proizvodima
+3. Pretraživač
+3. Košarica za potvrdu narudžbe
+4. Unos podataka za dostavu
 
 
 ## UPUTE

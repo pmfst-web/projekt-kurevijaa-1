@@ -8,8 +8,9 @@
 
 # Opis projekta
 ## Kratki opis
-Za projekt sam odabrao aplikaciju za rezervaciju termina u frizerskom salonu. Aplikacija sadrži korisničku stranu gdje korisnik rezervira svoj termin, koji se sprema u listu na korisničkom profilu i kojoj korisnik može uvijek pristupiti. Također sadrži i profesionalni profil gdje vlasnici salona primaju narudžbe i odobravaju ih, brišu i uređuju.
-Ekrani: Početni login ekran. Korisnički dio: 1. Početni ekran s odabirom salona datuma i vremena, te botunom za potvrdu 2. Ekran korisničkog profila s informacijama korisnika. 3. Ekran s narudžbama korisnika, potvrđenim, na čekanju i povijesti. Profesionalni profil: 1. ekran s narudžbama na čekanju, 2. ekran s aktivnim narudžbama. 3. Ekran s osnovnim podacima o djelatniku, zaradi itd.
+Moj projekt je zamišljen kao aplikacija internetske trgovine. Na njoj će korisnici moći naručivati opremu za frizerske salone, klikom na proizvod viditi će se detalji svakog proizvoda. Aplikacija će imati i pretraživač.
+Korisnik će moći proizvode dodati u košaricu u kojoj će mu se obračunati ukupna cijena, te će morati potvrditi narudžbu u istoj. U jednom od ekrana tražiti će se unos podataka za dostavu te će iste moći potvrditi.
+
 
 ## Popis funkcionalnosti
 1. a Kreiranje korisničkog računa, uređivanje i pregled.

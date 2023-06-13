@@ -1,12 +1,14 @@
 # Evidencija aktivnosti
-## dd.mm.2021.
+## dd.mm.2023.
 Pocetak | Kraj
 ------- | ----
-hh:mm   | hh:mm
+11.6  | 
 ### Kratki opis promjena
-Definirani zahtjevi aplikacije.
-Dovršena prva faza projekta.
+Početni ekran, povlačenje proizvoda(isti su hardkodirani unutar services)
+Screen svakog pojedinog proizvoda sa slikom, opisom i opcijom dodavanja u košaricu.
 
-## 23.12.2021.
+## 12.08.2023
 ### Kratki opis promjena
-Napravio sam navigaciju
+Pretraživanje po imenu 
+
+## 13.08.2023
